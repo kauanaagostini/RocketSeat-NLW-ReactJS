@@ -1,3 +1,50 @@
+# [Nome da Aplicação se tiver]
+
+## Índice
+- [1. Desafio](#1-desafio)
+- [2. A aplicação](#2-a-aplicação)
+- [3. Desenvolvimento](#3-desenvolvimento)
+- [4. Interface Final](#4-interface-final)
+- [5. Tecnologias](#️5-tecnologias)
+- [6. Desenvolvedor](#6-desenvolvedoras)
+
+***
+
+## 1. Desafio
+
+Desafio desenvolvido pela empresa [**Sami**](https://www.samisaude.com.br/#/) com o intuito de medir a senioridade para um Desenvolvedor Front-End.
+
+Consiste em desenvolver uma aplicação web que traga a listagem de super herois utilizando a API escolhida por eles, a [**Super Hero API**](https://superheroapi.com/).
+
+Para o desenvolvimento há apenas uma regra a seguir:
+- O teste deve ser feito utilizando **React JS**.
+
+Claro que se você: 
+- Utilizar **Redux** será um diferencial.
+
+O design da tela fica por conta da criatividade do desenvolvedor porém algumas dicas e funcionalidades básicas a seguir devem ser levadas em consideração:
+- Listagem dos heróis;
+- Filtragem de heróis por nome e poderes;
+- Ao clicar no herói, exibir um modal com as informações completas dele;
+- Gostam de [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/);
+- Utilizam SCSS;
+- Utilizam StandardJS.
+
+## 2. A Aplicação
+
+## 3. Desenvolvimento
+
+## 4. Interface Final
+
+## 5. tecnologias
+
+## 6. Desenvolvedor
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
