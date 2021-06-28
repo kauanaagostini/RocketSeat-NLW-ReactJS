@@ -11,13 +11,11 @@
 - [5. Considerações Finais](#5-considerações-finais)
  ---
 <br>
-
 ## 1. Introdução
 Aplicação Web desenvolvida durante a trilha de estudos da NLW 5, promovida pela <strong>[Rocketseat](https://rocketseat.com.br/)</strong>.
 
 ---
 <br>
-
 ## 2. Podcastr
 Desenvolvido para estudos de `Next`, `Typescript` e `Sass`, o projeto consiste em desenvolver uma aplicação Web para reproduzir PodCasts.
 
