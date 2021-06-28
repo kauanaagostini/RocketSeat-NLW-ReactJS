@@ -11,11 +11,13 @@
 - [5. Considerações Finais](#5-considerações-finais)
  ---
 <br>
+
 ## 1. Introdução
 Aplicação Web desenvolvida durante a trilha de estudos da NLW 5, promovida pela <strong>[Rocketseat](https://rocketseat.com.br/)</strong>.
 
 ---
 <br>
+
 ## 2. Podcastr
 Desenvolvido para estudos de `Next`, `Typescript` e `Sass`, o projeto consiste em desenvolver uma aplicação Web para reproduzir PodCasts.
 
@@ -32,7 +34,7 @@ Este projeto consiste na construção de duas páginas, e um componente de playe
 
 <strong>Página Home</strong>
 <div align="center" margin="5px">
-  <img src="./src/assets/Home.jpg" width="400px"/>
+  <img src="./src/assets/Home.jpg" width="500px"/>
 </div>
 Como podemos ver na página <strong>Home</strong> encontramos todos os episódios constantes no servidor, dando enfase para os dois últimos lançamentos.
 Atráves da página hoje você pode já colocar um episódio para tocar, como pode entrar na página de cada epísodio, onde terá mais informações sobre o mesmo.
@@ -41,7 +43,7 @@ Atráves da página hoje você pode já colocar um episódio para tocar, como po
 
 <strong>Página Episódio</strong>
 <div align="center">
-  <img src="./src/assets/Episode.jpg" width="400px"/>
+  <img src="./src/assets/Episode.jpg" width="500px"/>
 </div>
 Nesta página você tem mais informações sobre o episódio selecionado, consegue voltar a página inicial ou iniciar a ouvir o episódio por essa página mesmo.
 <br>
