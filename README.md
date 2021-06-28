@@ -21,7 +21,7 @@ Aplicação Web desenvolvida durante a trilha de estudos da NLW 5, promovida pel
 ## 2. Podcastr
 Desenvolvido para estudos de `Next`, `Typescript` e `Sass`, o projeto consiste em desenvolver uma aplicação Web para reproduzir PodCasts.
 
-O servidor é estático e gerado através de `Json Server` - explicaremos mais abaixo, caso queira ver a aplicação rodando em seu computador, como estanicar a mesma - onde através de chamada de API reproduzimos capítulos de Podcast do Canal <strong>FalaDev</strong>.
+O servidor é estático e gerado através de `Json Server` - explicaremos mais abaixo, caso queira ver a aplicação rodando em seu computador, como instanciar a mesma - onde através de chamada de API reproduzimos capítulos de Podcast do Canal <strong>FalaDev</strong>.
 
 Neste projeto podemos aprofundar um pouco os conhecimentos e as diferenças entre SPA, SSR e SSG, e porque são utilizadas.
 
@@ -30,14 +30,14 @@ Neste projeto podemos aprofundar um pouco os conhecimentos e as diferenças entr
 <br>
 
 ## 3. Estrutura e funcionalidades
-Este projeto consiste na construção de duas páginas, e um componente de player que fica fixo nas duas páginas e independe da navegação da mesma, ou seja, você pode estar navegando entre os episódios do PodCast enquanto estuta o ultimo lançada, ou o seu favorito.
+Este projeto consiste na construção de duas páginas, e um componente de player que fica fixo nas duas páginas e independe da navegação dela, ou seja, você pode estar navegando entre os episódios do PodCast enquanto escuta o último lançado, ou o seu favorito.
 
 <strong>Página Home</strong>
 <div align="center" margin="5px">
   <img src="./src/assets/Home.jpg" width="500px"/>
 </div>
-Como podemos ver na página <strong>Home</strong> encontramos todos os episódios constantes no servidor, dando enfase para os dois últimos lançamentos.
-Atráves da página hoje você pode já colocar um episódio para tocar, como pode entrar na página de cada epísodio, onde terá mais informações sobre o mesmo.
+Como podemos ver na página <strong>Home</strong> encontramos todos os episódios constantes no servidor, dando ênfase para os dois últimos lançamentos.
+Através da página hoje você pode já colocar um episódio para tocar, como pode entrar na página de cada episódio, onde terá mais informações sobre ele.
 <br>
 <br>
 
@@ -56,9 +56,9 @@ Nesta página você tem mais informações sobre o episódio selecionado, conseg
 </div>
 O player é componente independente, você poderá navegar pelas páginas, que não influenciará na reprodução do conteúdo.
 
-Ele inicia vazio, e assim que selecionado um episódio o mesmo inicia a tocar no player com algumas informações do episódio, como sua imagem, titulo, membros.
+Ele inicia vazio, e assim que selecionado um episódio ele inicia a tocar no player com algumas informações do episódio, como sua imagem, título, membros.
 
-Através dele você consegue fazer a navagação através dos episódios, e todos os recursos que um player tem como, repetir episódio, e embaralhar os episódios para uma reproduação aleatória.
+Através dele você consegue fazer a navegação através dos episódios, e todos os recursos que um player tem como, repetir episódio, e embaralhar os episódios para uma reprodução aleatória.
 
 ---
 <br>
@@ -78,10 +78,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 
 ## 5. Considerações Finais
-Desejar ver a aplicação rodando em seu computador, para o mesmo você precisa:
+Desejar ver a aplicação rodando em seu computador, para isso você precisa:
 - [x] Dar um Fork nesse repositório;
 - [x] Faça um clone do mesmo;
-- [x] Não esqueça, `npm install` para intalar todas as dependencias;
+- [x] Não esqueça, `npm install` para instalar todas as dependências;
 
 Estamos prontos para decolar, <strong>ainda não</strong>, o servidor desse projeto é local, não esqueça de estanciar ele antes de estanciar o projeto:
 - [x] verifiquei se no arquivo package.json o "server" está configurado;
